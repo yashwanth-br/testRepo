@@ -1,6 +1,11 @@
 // This is test file for Hello world...
 #include <stdio.h>
 
+void dummy2()
+{
+    printf("Dummy print 2\n");
+}
+
 void main()
 {
     printf("Hello World!!!\n");
