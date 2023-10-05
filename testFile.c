@@ -5,7 +5,10 @@ void dummy2()
 {
     printf("Dummy print 2\n");
 }
-
+void dummy4()
+{
+    printf("Dummy print 4\n");
+}
 void main()
 {
     printf("Hello World!!!\n");
