@@ -13,7 +13,12 @@ void main()
     printf("Hello World 3!!!\n");
     printf("Hello World 4!!!\n");
 }
+
 void dummy1()
 {
     printf("Dummy print\n");
+}
+void dummy3()
+{
+    printf("Dummy print 3\n");
 }
