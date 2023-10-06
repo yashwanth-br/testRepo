@@ -25,3 +25,7 @@ void dummy3()
 {
     printf("Dummy print 3\n");
 }
+void dummy5()
+{
+    printf("Dummy print 5\n");
+}
